@@ -94,7 +94,7 @@ buf        BYTE   MAX_LINE dup(0)
 pwd_ref    BYTE   "SVET",0
 
 s_title   BYTE 13,10,"=== Just Quest ===",13,10,0
-s_byline  BYTE "By the greast gasby",13,10,13,10,0
+s_byline  BYTE "By the greast gasby (aka p1zdabolw)",13,10,13,10,0
 s_start   BYTE "You come to your senses in an abandoned library.",13,10
           BYTE "In your hands is a yellowed note:",13,10
           BYTE "The one who reads the last book will remain in it forever.",13,10,0
